@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "taking lessons",
+      "traducao": "fazendo aulas, tomando lições, tendo aulas"
+    },
+    {
+      "id": 2,
+      "title": "growing stronger",
+      "traducao": "ficando mais forte, se fortalecendo, ganhando força"
+    },
+    {
+      "id": 3,
+      "title": "sprawling",
+      "traducao": "extenso/espalhado, desordenado, esparramado"
+    },
+    {
+      "id": 4,
+      "title": "bursting",
+      "traducao": "estourando, explodindo, transbordando"
+    },
+    {
+      "id": 5,
+      "title": "lush",
+      "traducao": "exuberante, luxuoso, macio"
+    },
+    {
+      "id": 6,
+      "title": "landscapes",
+      "traducao": "paisagens, cenários, paisagismo"
+    },
+    {
+      "id": 7,
+      "title": "within",
+      "traducao": "dentro de, no âmbito de, internamente"
+    },
+    {
+      "id": 8,
+      "title": "halls",
+      "traducao": "corredores, salões, saguões"
+    },
+    {
+      "id": 9,
+      "title": "alongside",
+      "traducao": "ao lado de, junto a, em paralelo a"
+    },
+    {
+      "id": 10,
+      "title": "while",
+      "traducao": "enquanto, embora, ao passo que"
+    },
+    {
+      "id": 11,
+      "title": "draw forth",
+      "traducao": "extrair, provocar, evocar"
+    },
+    {
+      "id": 12,
+      "title": "fullest",
+      "traducao": "máximo, mais completo, mais pleno"
+    },
+    {
+      "id": 13,
+      "title": "still",
+      "traducao": "ainda, imóvel, mesmo assim"
+    },
+    {
+      "id": 14,
+      "title": "engines",
+      "traducao": "motores, máquinas, motores de busca"
+    },
+    {
+      "id": 15,
+      "title": "cool your engines",
+      "traducao": "acalme-se, controle-se, relaxe"
+    },
+    {
+      "id": 16,
+      "title": "supposed",
+      "traducao": "suposto, dever, planejado"
+    },
+    {
+      "id": 17,
+      "title": "on behalf",
+      "traducao": "em nome de, por conta de, em defesa de"
+    },
+    {
+      "id": 18,
+      "title": "arrival",
+      "traducao": "chegada, vinda, entrada"
+    },
+    {
+      "id": 19,
+      "title": "enrollment",
+      "traducao": "matrícula, inscrição, adesão"
+    },
+    {
+      "id": 20,
+      "title": "entire",
+      "traducao": "todo, inteiro, total"
+    },
+    {
+      "id": 21,
+      "title": "failures",
+      "traducao": "fracassos, falhas, reprovações"
+    },
+    {
+      "id": 22,
+      "title": "such",
+      "traducao": "tão, tal, como"
+    },
+    {
+      "id": 23,
+      "title": "whenever",
+      "traducao": "sempre que, a qualquer momento, toda vez que"
+    },
+    {
+      "id": 24,
+      "title": "mannerly",
+      "traducao": "educado, cortês, bem-educado"
+    },
+    {
+      "id": 25,
+      "title": "fellow",
+      "traducao": "colega, cara, membro"
+    }
+  ]
+}
