@@ -8,6 +8,7 @@ import {
 } from "@/components/ui/carousel";
 import Cartao from '@/components/Cartao';
 import { useCardScores } from '@/hooks/useCardScores/useCardScores';
+import BotaoGeral from '@/components/BotaoGeral/BotaoGeral';
 
 interface CardData {
   id: number;
@@ -61,22 +62,28 @@ export default function Home() {
     <div className="flex flex-col gap-6 p-6 items-center">
       <Carousel className="w-full max-w-xs">
         <CarouselContent>
-          {cards.map((card) => (
-            <CarouselItem key={card.id}>
-              <div className="p-0.5">
-                <Cartao
-                  id={card.id}
-                  showInfo={revealedCardId === card.id}
-                  title={card.title}
-                  traducao={card.traducao}
-                  handleButtonClick={() => handleButtonClick(card.id)}
-                  onScoreChange={(delta) => updateScore(card.id, delta)}
-                />
-              </div>
-            </CarouselItem>
-          ))}
+          {cards
+            .filter(card => !scores[card.id] || scores[card.id] === 0) // <- Só mostra quem ainda está com score 0
+            .map((card) => (
+              <CarouselItem key={card.id}>
+                <div className="p-0.5">
+                  <Cartao
+                    id={card.id}
+                    showInfo={revealedCardId === card.id}
+                    title={card.title}
+                    traducao={card.traducao}
+                    handleButtonClick={() => handleButtonClick(card.id)}
+                    onScoreChange={(delta) => updateScore(card.id, delta)}
+                  />
+                </div>
+              </CarouselItem>
+            ))}
         </CarouselContent>
       </Carousel>
+      <div className='flex gap-4'>
+        <BotaoGeral textoBotao='Recomeçar' cor='yellow' />
+        <BotaoGeral textoBotao='Resultado' cor='blue' />
+      </div>
     </div>
   );
 }

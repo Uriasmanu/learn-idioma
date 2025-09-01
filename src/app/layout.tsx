@@ -31,7 +31,7 @@ export default function RootLayout({
           <AppSidebar />
           <main className=" h-screen w-[100vw]">
             <SidebarTrigger />
-            <section className="flex justify-center items-center h-screen w-[100vw]">
+            <section className="flex justify-center items-center w-[100vw]">
               {children}
             </section>
           </main>

@@ -1,7 +1,7 @@
 'use client';
 
 import { Languages } from 'lucide-react';
-import Botao from '../Botao';
+import Botao from '../BotaoTraducao';
 import BotaoAcerto from '../BotaoAcerto';
 import BotaoErro from '../BotaoErro';
 

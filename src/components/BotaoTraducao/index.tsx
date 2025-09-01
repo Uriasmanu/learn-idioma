@@ -7,7 +7,7 @@ interface BotaoProp {
     className?: string; // Adicione esta prop
 }
 
-export default function Botao({ onClick, className = '' }: BotaoProp) {
+export default function BotaoTraducao({ onClick, className = '' }: BotaoProp) {
     const [isMobile, setIsMobile] = useState(false);
     const [isActive, setIsActive] = useState(false);
 
