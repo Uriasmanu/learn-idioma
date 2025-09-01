@@ -9,6 +9,7 @@ import {
 import Cartao from '@/components/Cartao';
 import { useCardScores } from '@/hooks/useCardScores/useCardScores';
 import BotaoGeral from '@/components/BotaoGeral/BotaoGeral';
+import { useRouter } from 'next/navigation';
 
 interface CardData {
   id: number;
@@ -26,49 +27,48 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
+  // ✅ Todos os Hooks no topo
   const { scores, updateScore, resetScores } = useCardScores();
+  const router = useRouter();
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('/data/textos.json');
-        if (!response.ok) throw new Error('Falha ao carregar dados');
-        const data: CardsData = await response.json();
-        setCards(data.cards || []);
-      } catch (error) {
-        console.error('Erro ao carregar dados:', error);
-        setError('Erro ao carregar os cards');
+        const response = await fetch('/data/textos.json')
+        if (!response.ok) throw new Error('Falha ao carregar dados')
+        const data: CardsData = await response.json()
+        setCards(data.cards || [])
+      } catch (err) {
+        setError('Erro ao carregar os cards')
       } finally {
-        setLoading(false);
+        setLoading(false)
       }
-    };
-
-    fetchData();
+    }
+    fetchData()
   }, []);
 
   const handleButtonClick = (cardId: number) => {
     setRevealedCardId(prev => prev === cardId ? null : cardId);
   };
 
-  if (loading) {
-    return <div className="flex items-center justify-center h-screen text-lg">Carregando...</div>;
-  }
-
-  if (error) {
-    return <div className="flex items-center justify-center h-screen text-lg text-red-500">{error}</div>;
-  }
-
   const handleReset = () => {
-  resetScores();       
-  setRevealedCardId(null);
-};
+    resetScores();
+    setRevealedCardId(null);
+  };
+
+  const handleResultado = () => {
+    router.push('/relatorio'); 
+  };
+
+  if (loading) return <div className="flex items-center justify-center h-screen text-lg">Carregando...</div>;
+  if (error) return <div className="flex items-center justify-center h-screen text-lg text-red-500">{error}</div>;
 
   return (
     <div className="flex flex-col gap-6 p-6 items-center">
       <Carousel className="w-full max-w-xs">
         <CarouselContent>
           {cards
-            .filter(card => !scores[card.id] || scores[card.id] === 0) // <- Só mostra quem ainda está com score 0
+            .filter(card => !scores[card.id] || scores[card.id] === 0)
             .map((card) => (
               <CarouselItem key={card.id}>
                 <div className="p-0.5">
@@ -87,7 +87,7 @@ export default function Home() {
       </Carousel>
       <div className='flex gap-4'>
         <BotaoGeral textoBotao='Recomeçar' cor='yellow' onClick={handleReset}/>
-        <BotaoGeral textoBotao='Resultado' cor='blue' />
+        <BotaoGeral textoBotao='Resultado' cor='blue' onClick={handleResultado}/>
       </div>
     </div>
   );
