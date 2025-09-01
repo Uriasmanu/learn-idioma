@@ -2,19 +2,24 @@
 
 import { Languages } from 'lucide-react'
 import { useState, useEffect } from 'react';
+import Botao from '../Botao';
 
-interface CartaoProp {
+interface CartaoProps {
     showInfo: boolean;
+    title: string;
+    description: string;
+    icon?: string;
+    handleButtonClick: () => void;
 }
 
-export default function Cartao({ showInfo }: CartaoProp) {
+export default function Cartao({ showInfo, title, description, icon, handleButtonClick }: CartaoProps) {
     const [infoRevealed, setInfoRevealed] = useState(false);
 
     useEffect(() => {
         if (showInfo) {
             const timer = setTimeout(() => {
                 setInfoRevealed(true);
-            }, 1000);
+            }, 300);
 
             return () => clearTimeout(timer);
         } else {
@@ -23,30 +28,45 @@ export default function Cartao({ showInfo }: CartaoProp) {
     }, [showInfo]);
 
     return (
-        <div className="relative flex h-[20rem] w-60 transform items-end border-2 border-black bg-white transition-transform rounded-2xl">
+        <div className="relative flex flex-col h-[28rem] w-80 border-2 border-black bg-white rounded-2xl overflow-hidden">
+//
             <div
-                className={`p-4 !pt-0 transition-opacity sm:p-6 lg:p-8 ${infoRevealed ? 'opacity-0' : 'opacity-100'
-                    }`}
+                className={`flex flex-col flex-1 p-6 transition-opacity ${
+                    infoRevealed ? 'opacity-0' : 'opacity-100'
+                }`}
             >
-                <Languages color='black'/>
-
-                <h2 className="mt-4 text-xl font-medium sm:text-2xl text-[#000]">Sushma Godawari</h2>
+                <div className="flex flex-col items-center flex-1 justify-center">
+                    <Languages color='black' size={48} className="mb-4" />
+                    <h2 className="text-xl font-medium sm:text-2xl text-[#000] text-center mb-6">
+                        {title}
+                    </h2>
+                </div>
+                
+                <div className="flex justify-center mt-auto mb-6 w-full">
+                    <Botao onClick={handleButtonClick} className="w-[100%]" />
+                </div>
             </div>
 
             <div
-                className={`absolute p-4 transition-opacity sm:p-6 lg:p-8 ${infoRevealed ? 'opacity-100' : 'opacity-0'
-                    }`}
+                className={`absolute inset-0 flex flex-col p-6 transition-opacity ${
+                    infoRevealed ? 'opacity-100' : 'opacity-0'
+                }`}
             >
-                <h3 className="mt-4 text-xl font-medium sm:text-2xl text-[#000]">Sushma Godawari</h3>
+                <div className="flex flex-col items-center flex-1 justify-center">
+                    <h3 className="text-xl font-medium sm:text-2xl text-[#000] text-center mb-4">
+                        {title}
+                    </h3>
 
-                <p className="mt-4 text-sm sm:text-base text-[#000]">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate,
-                    praesentium voluptatem omnis atque culpa repellendus.
-                </p>
+                    <p className="text-sm sm:text-base text-[#000] text-center mb-6">
+                        {description}
+                    </p>
+                </div>
+                
 
-                <p className="mt-8 font-bold text-[#000]">Read more</p>
+                <div className="flex justify-center mt-auto w-full">
+                    <Botao onClick={handleButtonClick} className="w-[100%]" />
+                </div>
             </div>
-
         </div>
     );
 }

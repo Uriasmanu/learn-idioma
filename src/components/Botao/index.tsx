@@ -4,9 +4,10 @@ import { useState, useEffect } from 'react';
 
 interface BotaoProp {
     onClick: () => void;
+    className?: string; // Adicione esta prop
 }
 
-export default function Botao({ onClick }: BotaoProp) {
+export default function Botao({ onClick, className = '' }: BotaoProp) {
     const [isMobile, setIsMobile] = useState(false);
     const [isActive, setIsActive] = useState(false);
 
@@ -37,7 +38,7 @@ export default function Botao({ onClick }: BotaoProp) {
 
     return (
         <button
-            className="relative bg-[#4b48ff] text-white font-medium text-[17px] px-4 py-[0.35em] pl-5 h-[2.8em] rounded-[0.9em] flex items-center overflow-hidden cursor-pointer shadow-[inset_0_0_1.6em_-0.6em_#714da6] group"
+            className={`relative bg-[#4b48ff] text-white font-medium text-[17px] px-4 py-[0.35em] pl-5 h-[2.8em] rounded-[0.9em] flex items-center overflow-hidden cursor-pointer shadow-[inset_0_0_1.6em_-0.6em_#714da6] group ${className}`}
             onMouseEnter={() => !isMobile && setIsActive(true)}
             onMouseLeave={() => !isMobile && setIsActive(false)}
             onClick={handleClick}
