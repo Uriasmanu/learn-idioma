@@ -2,7 +2,11 @@
 
 import { useState, useEffect } from 'react';
 
-export default function Botao() {
+interface BotaoProp {
+    onClick: () => void;
+}
+
+export default function Botao({ onClick }: BotaoProp) {
     const [isMobile, setIsMobile] = useState(false);
     const [isActive, setIsActive] = useState(false);
 
@@ -23,6 +27,11 @@ export default function Botao() {
     const handleClick = () => {
         if (isMobile) {
             setIsActive(!isActive);
+        }
+        
+        // Chama a função passada como prop
+        if (onClick) {
+            onClick();
         }
     };
 
