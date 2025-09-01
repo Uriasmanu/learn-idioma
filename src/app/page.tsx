@@ -26,7 +26,7 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  const { scores, updateScore } = useCardScores();
+  const { scores, updateScore, resetScores } = useCardScores();
 
   useEffect(() => {
     const fetchData = async () => {
@@ -58,6 +58,11 @@ export default function Home() {
     return <div className="flex items-center justify-center h-screen text-lg text-red-500">{error}</div>;
   }
 
+  const handleReset = () => {
+  resetScores();       
+  setRevealedCardId(null);
+};
+
   return (
     <div className="flex flex-col gap-6 p-6 items-center">
       <Carousel className="w-full max-w-xs">
@@ -81,7 +86,7 @@ export default function Home() {
         </CarouselContent>
       </Carousel>
       <div className='flex gap-4'>
-        <BotaoGeral textoBotao='Recomeçar' cor='yellow' />
+        <BotaoGeral textoBotao='Recomeçar' cor='yellow' onClick={handleReset}/>
         <BotaoGeral textoBotao='Resultado' cor='blue' />
       </div>
     </div>

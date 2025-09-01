@@ -1,9 +1,10 @@
 interface BotaoGeralProp {
     textoBotao: string;
-    cor?: 'blue' | 'yellow'; // cores permitidas
+    cor?: 'blue' | 'yellow';
+    onClick?: () => void;
 }
 
-export default function BotaoGeral({ textoBotao, cor = 'blue' }: BotaoGeralProp) {
+export default function BotaoGeral({ textoBotao, cor = 'blue', onClick }: BotaoGeralProp) {
     const cores = {
         blue: 'bg-blue-500 border-blue-600 hover:border-b-[6px]',
         yellow: 'bg-amber-300 border-orange-600 hover:border-b-[6px]'
@@ -15,6 +16,7 @@ export default function BotaoGeral({ textoBotao, cor = 'blue' }: BotaoGeralProp)
             border-b-[4px] hover:brightness-110 hover:-translate-y-[1px]
             active:border-b-[2px] active:brightness-90 active:translate-y-[2px]
             ${cores[cor]}`}
+            onClick={onClick} 
         >
             {textoBotao}
         </button>

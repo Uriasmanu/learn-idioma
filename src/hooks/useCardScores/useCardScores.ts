@@ -6,27 +6,23 @@ export function useCardScores() {
   // Carrega os valores salvos no localStorage
   useEffect(() => {
     const storedScores = localStorage.getItem("cardScores");
-    if (storedScores) {
-      setScores(JSON.parse(storedScores));
-    }
+    if (storedScores) setScores(JSON.parse(storedScores));
   }, []);
 
-  // Salva os valores no localStorage sempre que mudarem
+  // Salva sempre que scores mudarem
   useEffect(() => {
     localStorage.setItem("cardScores", JSON.stringify(scores));
-    console.log("Scores atualizados:", scores); // <-- AQUI!
   }, [scores]);
 
   const updateScore = (cardId: number, delta: number) => {
-    setScores(prev => {
-      const updated = {
-        ...prev,
-        [cardId]: (prev[cardId] || 0) + delta,
-      };
-      console.log(`Card ${cardId} recebeu delta ${delta}. Novo valor:`, updated[cardId]); // <-- E AQUI!
-      return updated;
-    });
+    setScores(prev => ({ ...prev, [cardId]: (prev[cardId] || 0) + delta }));
   };
 
-  return { scores, updateScore };
+  const resetScores = () => {
+    setScores({});
+    localStorage.removeItem("cardScores");
+  };
+
+  return { scores, updateScore, resetScores };
 }
+
