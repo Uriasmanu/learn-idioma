@@ -30,21 +30,26 @@ export default function Home() {
   const { scores, updateScore, resetScores } = useCardScores();
   const router = useRouter();
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/data/textos.json')
-        if (!response.ok) throw new Error('Falha ao carregar dados')
-        const data: CardsData = await response.json()
-        setCards(data.cards || [])
-      } catch (err) {
-        setError('Erro ao carregar os cards')
-      } finally {
-        setLoading(false)
-      }
+useEffect(() => {
+  const fetchData = async () => {
+    try {
+      const response = await fetch('/data/textos.json');
+      if (!response.ok) throw new Error('Falha ao carregar dados');
+      const data: CardsData = await response.json();
+
+      // Embaralha os cards
+      const shuffledCards = data.cards.sort(() => Math.random() - 0.5);
+
+      setCards(shuffledCards || []);
+    } catch (err) {
+      setError('Erro ao carregar os cards');
+    } finally {
+      setLoading(false);
     }
-    fetchData()
-  }, []);
+  };
+  fetchData();
+}, []);
+
 
   const handleButtonClick = (cardId: number) => {
     setRevealedCardId(prev => prev === cardId ? null : cardId);
