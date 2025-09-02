@@ -149,6 +149,72 @@
       "index": 25,
       "title": "fellow",
       "traducao": "colega, cara, membro"
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "title": "anyone",
+      "traducao": "alguém, ninguém, qualquer pessoa"
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "title": "duty",
+      "traducao": "dever, função, imposto, plantão"
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "title": "grow",
+      "traducao": "crescer, cultivar, tornar-se, aumentar"
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "title": "wholly",
+      "traducao": "totalmente, completamente, inteiramente"
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "title": "fruitful",
+      "traducao": "frutífero, produtivo, proveitoso"
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "title": "surely",
+      "traducao": "certamente, com certeza, decerto"
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "title": "weary",
+      "traducao": "cansado, fatigado, exausto, desanimado"
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "title": "wing",
+      "traducao": "asa, ala, aileron, facção"
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "title": "handy",
+      "traducao": "útil, prático, à mão, habilidoso"
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "title": "homeroom teacher",
+      "traducao": "professor regente, titular de turma"
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "title": "handwritten",
+      "traducao": "escrito à mão, manuscrito"
     }
   ]
 }
