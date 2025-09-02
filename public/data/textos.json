@@ -215,6 +215,132 @@
       "index": 36,
       "title": "handwritten",
       "traducao": "escrito à mão, manuscrito"
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "title": "weaken",
+      "traducao": "enfraquecer"
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "title": "throw",
+      "traducao": "jogar, lançar, arremessar"
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "title": "wild",
+      "traducao": "selvagem"
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "title": "hang",
+      "traducao": "pendurar"
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "title": "unsafe",
+      "traducao": "inseguro, perigoso"
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "title": "seems",
+      "traducao": "parece"
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "title": "weak",
+      "traducao": "fraco"
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "title": "perk up",
+      "traducao": "animar-se, ficar alerta"
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "title": "gotten",
+      "traducao": "obtido, conseguido"
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "title": "gotta",
+      "traducao": "ter que, preciso"
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "title": "climb",
+      "traducao": "escalar, subir"
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "title": "enough",
+      "traducao": "suficiente"
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "title": "goners",
+      "traducao": "perdidos, condenados"
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "title": "thought",
+      "traducao": "pensamento, pensou"
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "title": "fella",
+      "traducao": "cara, sujeito"
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "title": "facing",
+      "traducao": "encarando, de frente para"
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "title": "perked",
+      "traducao": "animado, alertado"
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "title": "somehow",
+      "traducao": "de alguma forma"
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "title": "once",
+      "traducao": "uma vez"
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "title": "both",
+      "traducao": "ambos, os dois"
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "title": "spot",
+      "traducao": "local, mancha, ver, identificar"
     }
   ]
 }
