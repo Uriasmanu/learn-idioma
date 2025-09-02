@@ -24,11 +24,6 @@ const items = [
     icon: FileChartColumn,
   },
   {
-    title: "Nova Palavrar",
-    url: "#",
-    icon: DiamondPlus,
-  },
-  {
     title: "Lista de Palavras",
     url: "/dicionario",
     icon: Search,
