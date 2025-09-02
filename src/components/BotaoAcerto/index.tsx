@@ -37,6 +37,7 @@ export default function BotaoAcerto({
         shadow-md hover:shadow-lg
         focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-offset-2
         active:scale-95
+        cursor-pointer
         ${className}
       `}
       aria-label="Acerto"

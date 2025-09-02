@@ -4,6 +4,7 @@ import { Languages } from 'lucide-react';
 import Botao from '../BotaoTraducao';
 import BotaoAcerto from '../BotaoAcerto';
 import BotaoErro from '../BotaoErro';
+import { useState } from 'react';
 
 interface CartaoProps {
   id: number;
@@ -15,22 +16,30 @@ interface CartaoProps {
 }
 
 export default function Cartao({ id, showInfo, title, traducao, handleButtonClick, onScoreChange }: CartaoProps) {
+  const [bgColor, setBgColor] = useState('bg-white');
+
+  const handleAcerto = () => {
+    setBgColor('bg-emerald-700');
+    setTimeout(() => {
+      onScoreChange(+1);
+    }, 1000);
+  };
+
+  const handleErro = () => {
+    setBgColor('bg-red-500');
+    setTimeout(() => {
+      onScoreChange(-1);
+    }, 1000);
+  };
+
   return (
-    <div className="relative flex flex-col h-[28rem] w-[19rem] border-2 border-black bg-white rounded-2xl overflow-hidden">
-      
-      {/* Botões de Acerto e Erro */}
+    <div className={`relative flex flex-col h-[28rem] w-[19rem] border-2 border-black ${bgColor} rounded-2xl overflow-hidden`}>
+
       <div className="flex justify-between p-2">
-        <BotaoAcerto onClick={() => {
-          console.log(`Card ${id} +1`);
-          onScoreChange(+1);
-        }} />
-        <BotaoErro onClick={() => {
-          console.log(`Card ${id} -1`);
-          onScoreChange(-1);
-        }} />
+        <BotaoAcerto onClick={handleAcerto} />
+        <BotaoErro onClick={handleErro} />
       </div>
 
-      {/* Conteúdo principal */}
       <div className={`flex flex-col h-full p-6 transition-opacity duration-300 ${showInfo ? 'opacity-0' : 'opacity-100'}`}>
         <div className="flex flex-col items-center justify-center h-full">
           <Languages color="black" size={48} className="mb-4" />
@@ -40,7 +49,6 @@ export default function Cartao({ id, showInfo, title, traducao, handleButtonClic
         </div>
       </div>
 
-      {/* Tradução (sobreposição) */}
       <div
         className={`absolute top-0 left-0 right-0 bottom-0 flex flex-col p-6 transition-opacity duration-300
         ${showInfo ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'}`}
@@ -52,7 +60,6 @@ export default function Cartao({ id, showInfo, title, traducao, handleButtonClic
         </div>
       </div>
 
-      {/* Botão central */}
       <div className="flex justify-center p-6 pt-0">
         <Botao onClick={handleButtonClick} className="w-[90%]" />
       </div>
