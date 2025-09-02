@@ -30,7 +30,7 @@ const items = [
   },
   {
     title: "Lista de Palavras",
-    url: "#",
+    url: "/dicionario",
     icon: Search,
   },
 ]

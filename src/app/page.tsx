@@ -27,7 +27,6 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  // ✅ Todos os Hooks no topo
   const { scores, updateScore, resetScores } = useCardScores();
   const router = useRouter();
 
