@@ -485,6 +485,48 @@
       "index": 81,
       "title": "means",
       "traducao": "meio, recurso"
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "title": "leave",
+      "traducao": "sair, partir, deixar"
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "title": "tô keep",
+      "traducao": "erro comum: 'to keep' (manter, guardar, continuar)"
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "title": "had",
+      "traducao": "teve, tinha (passado de 'have')"
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "title": "rough",
+      "traducao": "áspero, difícil, grosso"
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "title": "sort",
+      "traducao": "tipo, espécie, classificar"
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "title": "stuff",
+      "traducao": "coisas, tralha, material"
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "title": "goofy",
+      "traducao": "bobo, desastrado, pateta"
     }
   ]
 }
