@@ -25,7 +25,10 @@ export default function Dicionario() {
                 if (!response.ok) throw new Error('Falha ao carregar dados');
 
                 const data = await response.json();
-                setCards(data.cards || []);
+                const sortedCards = (data.cards || []).sort((a: Card, b: Card) =>
+                    a.title.localeCompare(b.title, 'pt', { sensitivity: 'base' })
+                );
+                setCards(sortedCards);
             } catch (err) {
                 setError('Erro ao carregar a lista');
             } finally {
@@ -34,6 +37,7 @@ export default function Dicionario() {
         };
         fetchData();
     }, []);
+
 
     if (loading) return <p>Carregando...</p>;
     if (error) return <p>{error}</p>;
