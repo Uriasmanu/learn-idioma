@@ -342,151 +342,149 @@
       "title": "spot",
       "traducao": "local, mancha, ver, identificar"
     },
-    [
-      {
-        "id": 58,
-        "index": 58,
-        "title": "shove off",
-        "traducao": "ir embora, dar o fora, vazar"
-      },
-      {
-        "id": 59,
-        "index": 59,
-        "title": "track",
-        "traducao": "trilha, pista"
-      },
-      {
-        "id": 60,
-        "index": 60,
-        "title": "cliff",
-        "traducao": "penhasco, desfiladeiro"
-      },
-      {
-        "id": 61,
-        "index": 61,
-        "title": "wore",
-        "traducao": "usou, vestiu"
-      },
-      {
-        "id": 62,
-        "index": 62,
-        "title": "slumpy",
-        "traducao": "deprimido, para baixo"
-      },
-      {
-        "id": 63,
-        "index": 63,
-        "title": "afterward",
-        "traducao": "depois, em seguida"
-      },
-      {
-        "id": 64,
-        "index": 64,
-        "title": "shoulda",
-        "traducao": "deveria ter"
-      },
-      {
-        "id": 65,
-        "index": 65,
-        "title": "As",
-        "traducao": "como, à medida que"
-      },
-      {
-        "id": 66,
-        "index": 66,
-        "title": "ever",
-        "traducao": "já, alguma vez"
-      },
-      {
-        "id": 67,
-        "index": 67,
-        "title": "seeing",
-        "traducao": "vendo, enxergando"
-      },
-      {
-        "id": 68,
-        "index": 68,
-        "title": "worthines",
-        "traducao": "merecimento, valor"
-      },
-      {
-        "id": 69,
-        "index": 69,
-        "title": "doldrums",
-        "traducao": "depressão, tédio, estagnação"
-      },
-      {
-        "id": 70,
-        "index": 70,
-        "title": "away",
-        "traducao": "longe, fora"
-      },
-      {
-        "id": 71,
-        "index": 71,
-        "title": "awesome",
-        "traducao": "incrível, demais"
-      },
-      {
-        "id": 72,
-        "index": 72,
-        "title": "stand",
-        "traducao": "ficar em pé, aguentar"
-      },
-      {
-        "id": 73,
-        "index": 73,
-        "title": "weirdo",
-        "traducao": "esquisitão, maluco"
-      },
-      {
-        "id": 74,
-        "index": 74,
-        "title": "outta",
-        "traducao": "fora de"
-      },
-      {
-        "id": 75,
-        "index": 75,
-        "title": "huge",
-        "traducao": "enorme, gigante"
-      },
-      {
-        "id": 76,
-        "index": 76,
-        "title": "same",
-        "traducao": "mesmo, igual"
-      },
-      {
-        "id": 77,
-        "index": 77,
-        "title": "far",
-        "traducao": "longe, distante"
-      },
-      {
-        "id": 78,
-        "index": 78,
-        "title": "these",
-        "traducao": "estes, estas"
-      },
-      {
-        "id": 79,
-        "index": 79,
-        "title": "kind of",
-        "traducao": "meio, tipo de"
-      },
-      {
-        "id": 80,
-        "index": 80,
-        "title": "hike",
-        "traducao": "caminhada, trilha"
-      },
-      {
-        "id": 81,
-        "index": 81,
-        "title": "means",
-        "traducao": "meio, recurso"
-      }
-    ]
+    {
+      "id": 58,
+      "index": 58,
+      "title": "shove off",
+      "traducao": "ir embora, dar o fora, vazar"
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "title": "track",
+      "traducao": "trilha, pista"
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "title": "cliff",
+      "traducao": "penhasco, desfiladeiro"
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "title": "wore",
+      "traducao": "usou, vestiu"
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "title": "slumpy",
+      "traducao": "deprimido, para baixo"
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "title": "afterward",
+      "traducao": "depois, em seguida"
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "title": "shoulda",
+      "traducao": "deveria ter"
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "title": "As",
+      "traducao": "como, à medida que"
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "title": "ever",
+      "traducao": "já, alguma vez"
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "title": "seeing",
+      "traducao": "vendo, enxergando"
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "title": "worthines",
+      "traducao": "merecimento, valor"
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "title": "doldrums",
+      "traducao": "depressão, tédio, estagnação"
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "title": "away",
+      "traducao": "longe, fora"
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "title": "awesome",
+      "traducao": "incrível, demais"
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "title": "stand",
+      "traducao": "ficar em pé, aguentar"
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "title": "weirdo",
+      "traducao": "esquisitão, maluco"
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "title": "outta",
+      "traducao": "fora de"
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "title": "huge",
+      "traducao": "enorme, gigante"
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "title": "same",
+      "traducao": "mesmo, igual"
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "title": "far",
+      "traducao": "longe, distante"
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "title": "these",
+      "traducao": "estes, estas"
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "title": "kind of",
+      "traducao": "meio, tipo de"
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "title": "hike",
+      "traducao": "caminhada, trilha"
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "title": "means",
+      "traducao": "meio, recurso"
+    }
   ]
 }
