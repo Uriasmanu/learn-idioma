@@ -527,6 +527,1392 @@
       "index": 88,
       "title": "goofy",
       "traducao": "bobo, desastrado, pateta"
-    }
+    },
+  {
+    "id": 89,
+    "index": 89,
+    "title": "To stay",
+    "traducao": "Ficar, permanecer"
+  },
+  {
+    "id": 90,
+    "index": 90,
+    "title": "To go",
+    "traducao": "Ir"
+  },
+  {
+    "id": 91,
+    "index": 91,
+    "title": "Went",
+    "traducao": "Foi"
+  },
+  {
+    "id": 92,
+    "index": 92,
+    "title": "Airport",
+    "traducao": "Aeroporto"
+  },
+  {
+    "id": 93,
+    "index": 93,
+    "title": "Bakery",
+    "traducao": "Padaria"
+  },
+  {
+    "id": 94,
+    "index": 94,
+    "title": "Bank",
+    "traducao": "Banco"
+  },
+  {
+    "id": 95,
+    "index": 95,
+    "title": "Bookstore",
+    "traducao": "Livraria"
+  },
+  {
+    "id": 96,
+    "index": 96,
+    "title": "Bus station",
+    "traducao": "Rodoviária"
+  },
+  {
+    "id": 97,
+    "index": 97,
+    "title": "Store",
+    "traducao": "Loja"
+  },
+  {
+    "id": 98,
+    "index": 98,
+    "title": "Church",
+    "traducao": "Igreja"
+  },
+  {
+    "id": 99,
+    "index": 99,
+    "title": "Gas station",
+    "traducao": "Posto de gasolina"
+  },
+  {
+    "id": 100,
+    "index": 100,
+    "title": "Gym",
+    "traducao": "Academia"
+  },
+  {
+    "id": 101,
+    "index": 101,
+    "title": "Hospital",
+    "traducao": "Hospital"
+  },
+  {
+    "id": 102,
+    "index": 102,
+    "title": "Hair salon",
+    "traducao": "Salão de beleza"
+  },
+  {
+    "id": 103,
+    "index": 103,
+    "title": "Movie theater",
+    "traducao": "Cinema"
+  },
+  {
+    "id": 104,
+    "index": 104,
+    "title": "Library",
+    "traducao": "Biblioteca"
+  },
+  {
+    "id": 105,
+    "index": 105,
+    "title": "University",
+    "traducao": "Universidade"
+  },
+  {
+    "id": 106,
+    "index": 106,
+    "title": "Museum",
+    "traducao": "Museu"
+  },
+  {
+    "id": 107,
+    "index": 107,
+    "title": "Square",
+    "traducao": "Praça"
+  },
+  {
+    "id": 108,
+    "index": 108,
+    "title": "Supermarket",
+    "traducao": "Supermercado"
+  },
+  {
+    "id": 109,
+    "index": 109,
+    "title": "School",
+    "traducao": "Escola"
+  },
+  {
+    "id": 110,
+    "index": 110,
+    "title": "The elephant in the room",
+    "traducao": "O óbvio ignorado, o assunto evitado"
+  },
+  {
+    "id": 111,
+    "index": 111,
+    "title": "Burn bridges",
+    "traducao": "Queimar pontes"
+  },
+  {
+    "id": 112,
+    "index": 112,
+    "title": "Take the high road",
+    "traducao": "Fazer a coisa certa/moral"
+  },
+  {
+    "id": 113,
+    "index": 113,
+    "title": "Hit the road",
+    "traducao": "Cair na estrada, ir embora"
+  },
+  {
+    "id": 114,
+    "index": 114,
+    "title": "In the middle of nowhere",
+    "traducao": "No meio do nada"
+  },
+  {
+    "id": 115,
+    "index": 115,
+    "title": "To make",
+    "traducao": "Fazer (criar, construir)"
+  },
+  {
+    "id": 116,
+    "index": 116,
+    "title": "To do",
+    "traducao": "Fazer (realizar uma ação)"
+  },
+  {
+    "id": 117,
+    "index": 117,
+    "title": "Agressive",
+    "traducao": "Agressivo"
+  },
+  {
+    "id": 118,
+    "index": 118,
+    "title": "Nice",
+    "traducao": "Legal, simpático"
+  },
+  {
+    "id": 119,
+    "index": 119,
+    "title": "Anxious",
+    "traducao": "Ansioso"
+  },
+  {
+    "id": 120,
+    "index": 120,
+    "title": "Small",
+    "traducao": "Pequeno"
+  },
+  {
+    "id": 121,
+    "index": 121,
+    "title": "Authentic",
+    "traducao": "Autêntico"
+  },
+  {
+    "id": 122,
+    "index": 122,
+    "title": "Short",
+    "traducao": "Baixo, curto"
+  },
+  {
+    "id": 123,
+    "index": 123,
+    "title": "Courageous",
+    "traducao": "Corajoso"
+  },
+  {
+    "id": 124,
+    "index": 124,
+    "title": "Old",
+    "traducao": "Velho, antigo"
+  },
+  {
+    "id": 125,
+    "index": 125,
+    "title": "New",
+    "traducao": "Novo"
+  },
+  {
+    "id": 126,
+    "index": 126,
+    "title": "Grateful",
+    "traducao": "Grato"
+  },
+  {
+    "id": 127,
+    "index": 127,
+    "title": "Long",
+    "traducao": "Longo, comprido"
+  },
+  {
+    "id": 128,
+    "index": 128,
+    "title": "Hilarious",
+    "traducao": "Hilário, engraçadíssimo"
+  },
+  {
+    "id": 129,
+    "index": 129,
+    "title": "Grumpy",
+    "traducao": "Mal-humorado"
+  },
+  {
+    "id": 130,
+    "index": 130,
+    "title": "Polite",
+    "traducao": "Educado"
+  },
+  {
+    "id": 131,
+    "index": 131,
+    "title": "Lame",
+    "traducao": "Chato, sem graça (gíria)"
+  },
+  {
+    "id": 132,
+    "index": 132,
+    "title": "True",
+    "traducao": "Verdadeiro"
+  },
+  {
+    "id": 133,
+    "index": 133,
+    "title": "Ugly",
+    "traducao": "Feio"
+  },
+  {
+    "id": 134,
+    "index": 134,
+    "title": "Beautiful",
+    "traducao": "Belo, lindo"
+  },
+  {
+    "id": 135,
+    "index": 135,
+    "title": "Handsome",
+    "traducao": "Bonito (para homens)"
+  },
+  {
+    "id": 136,
+    "index": 136,
+    "title": "Amazing",
+    "traducao": "Incrível, maravilhoso"
+  },
+  {
+    "id": 137,
+    "index": 137,
+    "title": "Wonderful",
+    "traducao": "Maravilhoso"
+  },
+  {
+    "id": 138,
+    "index": 138,
+    "title": "Nice and easy",
+    "traducao": "De boa, tranquilo"
+  },
+  {
+    "id": 139,
+    "index": 139,
+    "title": "Take the bull by the horns",
+    "traducao": "Enfrentar a situação de frente"
+  },
+  {
+    "id": 140,
+    "index": 140,
+    "title": "Kill (someone) with kindness",
+    "traducao": "Catar alguém com bondade"
+  },
+  {
+    "id": 141,
+    "index": 141,
+    "title": "Small talk",
+    "traducao": "Conversa fiada"
+  },
+  {
+    "id": 142,
+    "index": 142,
+    "title": "Old as the hills",
+    "traducao": "Muito antigo"
+  },
+  {
+    "id": 143,
+    "index": 143,
+    "title": "Countable",
+    "traducao": "Contável"
+  },
+  {
+    "id": 144,
+    "index": 144,
+    "title": "Uncountable",
+    "traducao": "Incontável"
+  },
+  {
+    "id": 145,
+    "index": 145,
+    "title": "To run",
+    "traducao": "Correr"
+  },
+  {
+    "id": 146,
+    "index": 146,
+    "title": "To walk",
+    "traducao": "Andar, caminhar"
+  },
+  {
+    "id": 147,
+    "index": 147,
+    "title": "Arena",
+    "traducao": "Arena"
+  },
+  {
+    "id": 148,
+    "index": 148,
+    "title": "Amateur",
+    "traducao": "Amador"
+  },
+  {
+    "id": 149,
+    "index": 149,
+    "title": "Athlete",
+    "traducao": "Atleta"
+  },
+  {
+    "id": 150,
+    "index": 150,
+    "title": "Athletics",
+    "traducao": "Atletismo"
+  },
+  {
+    "id": 151,
+    "index": 151,
+    "title": "Award",
+    "traducao": "Prêmio"
+  },
+  {
+    "id": 152,
+    "index": 152,
+    "title": "Captain",
+    "traducao": "Capitão"
+  },
+  {
+    "id": 153,
+    "index": 153,
+    "title": "Champion",
+    "traducao": "Campeão"
+  },
+  {
+    "id": 154,
+    "index": 154,
+    "title": "Coach",
+    "traducao": "Técnico"
+  },
+  {
+    "id": 155,
+    "index": 155,
+    "title": "Competition",
+    "traducao": "Competição"
+  },
+  {
+    "id": 156,
+    "index": 156,
+    "title": "Draw",
+    "traducao": "Empate"
+  },
+  {
+    "id": 157,
+    "index": 157,
+    "title": "Player",
+    "traducao": "Jogador"
+  },
+  {
+    "id": 158,
+    "index": 158,
+    "title": "Referee",
+    "traducao": "Árbitro"
+  },
+  {
+    "id": 159,
+    "index": 159,
+    "title": "Rules",
+    "traducao": "Regras"
+  },
+  {
+    "id": 160,
+    "index": 160,
+    "title": "Whistle",
+    "traducao": "Apito"
+  },
+  {
+    "id": 161,
+    "index": 161,
+    "title": "Boxing",
+    "traducao": "Boxe"
+  },
+  {
+    "id": 162,
+    "index": 162,
+    "title": "Cycling",
+    "traducao": "Ciclimo"
+  },
+  {
+    "id": 163,
+    "index": 163,
+    "title": "Golf",
+    "traducao": "Golfe"
+  },
+  {
+    "id": 164,
+    "index": 164,
+    "title": "Gymnastic",
+    "traducao": "Ginástica"
+  },
+  {
+    "id": 165,
+    "index": 165,
+    "title": "Saved by the bell",
+    "traducao": "Salvo pela campainha"
+  },
+  {
+    "id": 166,
+    "index": 166,
+    "title": "On the ropes",
+    "traducao": "Encurralado, em apuros"
+  },
+  {
+    "id": 167,
+    "index": 167,
+    "title": "Game changer",
+    "traducao": "Algo que muda tudo"
+  },
+  {
+    "id": 168,
+    "index": 168,
+    "title": "To run the clock down",
+    "traducao": "Fazer cera, queimar tempo"
+  },
+  {
+    "id": 169,
+    "index": 169,
+    "title": "Cheap shot",
+    "traducao": "Golpe baixo"
+  },
+  {
+    "id": 170,
+    "index": 170,
+    "title": "This",
+    "traducao": "Este, esta, isto"
+  },
+  {
+    "id": 171,
+    "index": 171,
+    "title": "That",
+    "traducao": "Esse, essa, isso, aquele, aquela, aquilo"
+  },
+  {
+    "id": 172,
+    "index": 172,
+    "title": "These",
+    "traducao": "Estes, estas"
+  },
+  {
+    "id": 173,
+    "index": 173,
+    "title": "Those",
+    "traducao": "Esses, essas, aqueles, aquelas"
+  },
+  {
+    "id": 174,
+    "index": 174,
+    "title": "To smell",
+    "traducao": "Cheirar"
+  },
+  {
+    "id": 175,
+    "index": 175,
+    "title": "To touch",
+    "traducao": "Tocar, encostar"
+  },
+  {
+    "id": 176,
+    "index": 176,
+    "title": "Head",
+    "traducao": "Cabeça"
+  },
+  {
+    "id": 177,
+    "index": 177,
+    "title": "Neck",
+    "traducao": "Pescoço"
+  },
+  {
+    "id": 178,
+    "index": 178,
+    "title": "Shoulders",
+    "traducao": "Ombros"
+  },
+  {
+    "id": 179,
+    "index": 179,
+    "title": "Chest",
+    "traducao": "Peito"
+  },
+  {
+    "id": 180,
+    "index": 180,
+    "title": "Belly",
+    "traducao": "Barriga"
+  },
+  {
+    "id": 181,
+    "index": 181,
+    "title": "Arm",
+    "traducao": "Braço"
+  },
+  {
+    "id": 182,
+    "index": 182,
+    "title": "Elbow",
+    "traducao": "Cotovelo"
+  },
+  {
+    "id": 183,
+    "index": 183,
+    "title": "Hand",
+    "traducao": "Mão"
+  },
+  {
+    "id": 184,
+    "index": 184,
+    "title": "Back",
+    "traducao": "Costas"
+  },
+  {
+    "id": 185,
+    "index": 185,
+    "title": "Hip",
+    "traducao": "Quadril"
+  },
+  {
+    "id": 186,
+    "index": 186,
+    "title": "Knee",
+    "traducao": "Joelho"
+  },
+  {
+    "id": 187,
+    "index": 187,
+    "title": "Skin",
+    "traducao": "Pele"
+  },
+  {
+    "id": 188,
+    "index": 188,
+    "title": "Ankle",
+    "traducao": "Tornozelo"
+  },
+  {
+    "id": 189,
+    "index": 189,
+    "title": "Foot",
+    "traducao": "Pé"
+  },
+  {
+    "id": 190,
+    "index": 190,
+    "title": "Finger",
+    "traducao": "Dedo (da mão)"
+  },
+  {
+    "id": 191,
+    "index": 191,
+    "title": "Toes",
+    "traducao": "Dedos do pé"
+  },
+  {
+    "id": 192,
+    "index": 192,
+    "title": "Eyes",
+    "traducao": "Olhos"
+  },
+  {
+    "id": 193,
+    "index": 193,
+    "title": "Ears",
+    "traducao": "Ouvidos, orelhas"
+  },
+  {
+    "id": 194,
+    "index": 194,
+    "title": "Nose",
+    "traducao": "Nariz"
+  },
+  {
+    "id": 195,
+    "index": 195,
+    "title": "Cheeks",
+    "traducao": "Bochechas"
+  },
+  {
+    "id": 196,
+    "index": 196,
+    "title": "Eyebrow",
+    "traducao": "Sobrancelha"
+  },
+  {
+    "id": 197,
+    "index": 197,
+    "title": "Eyelashes",
+    "traducao": "Cílios"
+  },
+  {
+    "id": 198,
+    "index": 198,
+    "title": "Head over heels",
+    "traducao": "Apaixonado"
+  },
+  {
+    "id": 199,
+    "index": 199,
+    "title": "Put your foot in your mouth",
+    "traducao": "Falar besteira, dar uma gafe"
+  },
+  {
+    "id": 200,
+    "index": 200,
+    "title": "Give (someone) a hand",
+    "traducao": "Dar uma mão, ajudar alguém"
+  },
+  {
+    "id": 201,
+    "index": 201,
+    "title": "Cost an arm and a leg",
+    "traducao": "Custar os olhos da cara"
+  },
+  {
+    "id": 202,
+    "index": 202,
+    "title": "To cry",
+    "traducao": "Chorar"
+  },
+  {
+    "id": 203,
+    "index": 203,
+    "title": "To smile",
+    "traducao": "Sorrir"
+  },
+  {
+    "id": 204,
+    "index": 204,
+    "title": "To laugh",
+    "traducao": "Rir"
+  },
+  {
+    "id": 205,
+    "index": 205,
+    "title": "Happy",
+    "traducao": "Feliz"
+  },
+  {
+    "id": 206,
+    "index": 206,
+    "title": "Great",
+    "traducao": "Ótimo, excelente"
+  },
+  {
+    "id": 207,
+    "index": 207,
+    "title": "Jolly",
+    "traducao": "Alegre, jovial"
+  },
+  {
+    "id": 208,
+    "index": 208,
+    "title": "Hungry",
+    "traducao": "Com fome"
+  },
+  {
+    "id": 209,
+    "index": 209,
+    "title": "Sad",
+    "traducao": "Triste"
+  },
+  {
+    "id": 210,
+    "index": 210,
+    "title": "Miserable",
+    "traducao": "Miserável"
+  },
+  {
+    "id": 211,
+    "index": 211,
+    "title": "Starving",
+    "traducao": "Faminto, esfomeado"
+  },
+  {
+    "id": 212,
+    "index": 212,
+    "title": "Thirsty",
+    "traducao": "Com sede"
+  },
+  {
+    "id": 213,
+    "index": 213,
+    "title": "Boiling hot",
+    "traducao": "Muito quente, fervendo"
+  },
+  {
+    "id": 214,
+    "index": 214,
+    "title": "Sweaty",
+    "traducao": "Suado"
+  },
+  {
+    "id": 215,
+    "index": 215,
+    "title": "Cold",
+    "traducao": "Frio"
+  },
+  {
+    "id": 216,
+    "index": 216,
+    "title": "Freezing",
+    "traducao": "Congelante, muito frio"
+  },
+  {
+    "id": 217,
+    "index": 217,
+    "title": "Sick / Unwell",
+    "traducao": "Doente"
+  },
+  {
+    "id": 218,
+    "index": 218,
+    "title": "Scared",
+    "traducao": "Assustado"
+  },
+  {
+    "id": 219,
+    "index": 219,
+    "title": "Fearful",
+    "traducao": "Medroso, temeroso"
+  },
+  {
+    "id": 220,
+    "index": 220,
+    "title": "Fearless",
+    "traducao": "Intrépido, sem medo"
+  },
+  {
+    "id": 221,
+    "index": 221,
+    "title": "Annoyed",
+    "traducao": "Irritado, aborrecido"
+  },
+  {
+    "id": 222,
+    "index": 222,
+    "title": "Angry",
+    "traducao": "Com raiva, zangado"
+  },
+  {
+    "id": 223,
+    "index": 223,
+    "title": "Tired",
+    "traducao": "Cansado"
+  },
+  {
+    "id": 224,
+    "index": 224,
+    "title": "Worn out",
+    "traducao": "Exausto, desgastado"
+  },
+  {
+    "id": 225,
+    "index": 225,
+    "title": "Astonished",
+    "traducao": "Espantado, pasmo"
+  },
+  {
+    "id": 226,
+    "index": 226,
+    "title": "(To) feel blue",
+    "traducao": "Estar triste, deprimido"
+  },
+  {
+    "id": 227,
+    "index": 227,
+    "title": "Drive (someone) crazy/nuts",
+    "traducao": "Deixar alguém louco"
+  },
+  {
+    "id": 228,
+    "index": 228,
+    "title": "(To) Freak out",
+    "traducao": "Enlouquecer, entrar em pânico"
+  },
+  {
+    "id": 229,
+    "index": 229,
+    "title": "On the edge",
+    "traducao": "No limite, à beira de um ataque de nervos"
+  },
+  {
+    "id": 230,
+    "index": 230,
+    "title": "Subject pronouns",
+    "traducao": "Pronomes sujeito (I, you, he...)"
+  },
+  {
+    "id": 231,
+    "index": 231,
+    "title": "Object pronouns",
+    "traducao": "Pronomes objeto (me, you, him...)"
+  },
+  {
+    "id": 232,
+    "index": 232,
+    "title": "To play",
+    "traducao": "Brincar, jogar, tocar (instrumento)"
+  },
+  {
+    "id": 233,
+    "index": 233,
+    "title": "To want",
+    "traducao": "Querer"
+  },
+  {
+    "id": 234,
+    "index": 234,
+    "title": "Basketball",
+    "traducao": "Basquete"
+  },
+  {
+    "id": 235,
+    "index": 235,
+    "title": "Soccer",
+    "traducao": "Futebol"
+  },
+  {
+    "id": 236,
+    "index": 236,
+    "title": "Volleyball",
+    "traducao": "Vôlei"
+  },
+  {
+    "id": 237,
+    "index": 237,
+    "title": "Electric guitar",
+    "traducao": "Guitarra elétrica"
+  },
+  {
+    "id": 238,
+    "index": 238,
+    "title": "Guitar",
+    "traducao": "Violão, guitarra"
+  },
+  {
+    "id": 239,
+    "index": 239,
+    "title": "Pants",
+    "traducao": "Calça"
+  },
+  {
+    "id": 240,
+    "index": 240,
+    "title": "Shorts",
+    "traducao": "Bermuda"
+  },
+  {
+    "id": 241,
+    "index": 241,
+    "title": "Jacket",
+    "traducao": "Jaqueta"
+  },
+  {
+    "id": 242,
+    "index": 242,
+    "title": "Skirt",
+    "traducao": "Saia"
+  },
+  {
+    "id": 243,
+    "index": 243,
+    "title": "Hat",
+    "traducao": "Chapéu, boné"
+  },
+  {
+    "id": 244,
+    "index": 244,
+    "title": "Socks",
+    "traducao": "Meias"
+  },
+  {
+    "id": 245,
+    "index": 245,
+    "title": "Dress",
+    "traducao": "Vestido"
+  },
+  {
+    "id": 246,
+    "index": 246,
+    "title": "Shoes",
+    "traducao": "Sapatos"
+  },
+  {
+    "id": 247,
+    "index": 247,
+    "title": "Boots",
+    "traducao": "Botas"
+  },
+  {
+    "id": 248,
+    "index": 248,
+    "title": "Sneakers",
+    "traducao": "Tênis"
+  },
+  {
+    "id": 249,
+    "index": 249,
+    "title": "Sandals",
+    "traducao": "Sandálias"
+  },
+  {
+    "id": 250,
+    "index": 250,
+    "title": "To like",
+    "traducao": "Gostar"
+  },
+  {
+    "id": 251,
+    "index": 251,
+    "title": "To have",
+    "traducao": "Ter"
+  },
+  {
+    "id": 252,
+    "index": 252,
+    "title": "Mom/Mother",
+    "traducao": "Mãe"
+  },
+  {
+    "id": 253,
+    "index": 253,
+    "title": "Brother",
+    "traducao": "Irmão"
+  },
+  {
+    "id": 254,
+    "index": 254,
+    "title": "Dad/Father",
+    "traducao": "Pai"
+  },
+  {
+    "id": 255,
+    "index": 255,
+    "title": "Cousin",
+    "traducao": "Prima / Primo"
+  },
+  {
+    "id": 256,
+    "index": 256,
+    "title": "Sister",
+    "traducao": "Irmã"
+  },
+  {
+    "id": 257,
+    "index": 257,
+    "title": "Aunt",
+    "traducao": "Tia"
+  },
+  {
+    "id": 258,
+    "index": 258,
+    "title": "Uncle",
+    "traducao": "Tio"
+  },
+  {
+    "id": 259,
+    "index": 259,
+    "title": "Niece",
+    "traducao": "Sobrinha"
+  },
+  {
+    "id": 260,
+    "index": 260,
+    "title": "Nephew",
+    "traducao": "Sobrinho"
+  },
+  {
+    "id": 261,
+    "index": 261,
+    "title": "Grandfather",
+    "traducao": "Avô"
+  },
+  {
+    "id": 262,
+    "index": 262,
+    "title": "Grandmother",
+    "traducao": "Avó"
+  },
+  {
+    "id": 263,
+    "index": 263,
+    "title": "Grandson",
+    "traducao": "Neto"
+  },
+  {
+    "id": 264,
+    "index": 264,
+    "title": "Grandchild",
+    "traducao": "Neto / Neta"
+  },
+  {
+    "id": 265,
+    "index": 265,
+    "title": "Granddaughter",
+    "traducao": "Neta"
+  },
+  {
+    "id": 266,
+    "index": 266,
+    "title": "Son",
+    "traducao": "Filho"
+  },
+  {
+    "id": 267,
+    "index": 267,
+    "title": "Daughter",
+    "traducao": "Filha"
+  },
+  {
+    "id": 268,
+    "index": 268,
+    "title": "Husband",
+    "traducao": "Marido"
+  },
+  {
+    "id": 269,
+    "index": 269,
+    "title": "Wife",
+    "traducao": "Esposa"
+  },
+  {
+    "id": 270,
+    "index": 270,
+    "title": "Family",
+    "traducao": "Família"
+  },
+  {
+    "id": 271,
+    "index": 271,
+    "title": "Parents",
+    "traducao": "Pais"
+  },
+  {
+    "id": 272,
+    "index": 272,
+    "title": "Child",
+    "traducao": "Criança, filho(a)"
+  },
+  {
+    "id": 273,
+    "index": 273,
+    "title": "Children",
+    "traducao": "Crianças, filhos(as)"
+  },
+  {
+    "id": 274,
+    "index": 274,
+    "title": "Mother-in-law",
+    "traducao": "Sogra"
+  },
+  {
+    "id": 275,
+    "index": 275,
+    "title": "Father-in-law",
+    "traducao": "Sogro"
+  },
+  {
+    "id": 276,
+    "index": 276,
+    "title": "Sister-in-law",
+    "traducao": "Cunhada"
+  },
+  {
+    "id": 277,
+    "index": 277,
+    "title": "Brother-in-law",
+    "traducao": "Cunhado"
+  },
+  {
+    "id": 278,
+    "index": 278,
+    "title": "Girlfriend",
+    "traducao": "Namorada"
+  },
+  {
+    "id": 279,
+    "index": 279,
+    "title": "Boyfriend",
+    "traducao": "Namorado"
+  },
+  {
+    "id": 280,
+    "index": 280,
+    "title": "How old are you?",
+    "traducao": "Quantos anos você tem?"
+  },
+  {
+    "id": 281,
+    "index": 281,
+    "title": "To eat",
+    "traducao": "Comer"
+  },
+  {
+    "id": 282,
+    "index": 282,
+    "title": "To drink",
+    "traducao": "Beber"
+  },
+  {
+    "id": 283,
+    "index": 283,
+    "title": "Meat",
+    "traducao": "Carne"
+  },
+  {
+    "id": 284,
+    "index": 284,
+    "title": "Fish",
+    "traducao": "Peixe"
+  },
+  {
+    "id": 285,
+    "index": 285,
+    "title": "Chicken",
+    "traducao": "Frango"
+  },
+  {
+    "id": 286,
+    "index": 286,
+    "title": "Vegetables",
+    "traducao": "Legumes, verduras"
+  },
+  {
+    "id": 287,
+    "index": 287,
+    "title": "Fruit",
+    "traducao": "Fruta"
+  },
+  {
+    "id": 288,
+    "index": 288,
+    "title": "Cake",
+    "traducao": "Bolo"
+  },
+  {
+    "id": 289,
+    "index": 289,
+    "title": "Salt",
+    "traducao": "Sal"
+  },
+  {
+    "id": 290,
+    "index": 290,
+    "title": "Cheese",
+    "traducao": "Queijo"
+  },
+  {
+    "id": 291,
+    "index": 291,
+    "title": "Hot dog",
+    "traducao": "Cachorro-quente"
+  },
+  {
+    "id": 292,
+    "index": 292,
+    "title": "Sandwich",
+    "traducao": "Sanduíche"
+  },
+  {
+    "id": 293,
+    "index": 293,
+    "title": "Orange",
+    "traducao": "Laranja"
+  },
+  {
+    "id": 294,
+    "index": 294,
+    "title": "Apple",
+    "traducao": "Maçã"
+  },
+  {
+    "id": 295,
+    "index": 295,
+    "title": "Corn",
+    "traducao": "Milho"
+  },
+  {
+    "id": 296,
+    "index": 296,
+    "title": "Rice",
+    "traducao": "Arroz"
+  },
+  {
+    "id": 297,
+    "index": 297,
+    "title": "Beans",
+    "traducao": "Feijão"
+  },
+  {
+    "id": 298,
+    "index": 298,
+    "title": "Cookie",
+    "traducao": "Biscoito"
+  },
+  {
+    "id": 299,
+    "index": 299,
+    "title": "Bread",
+    "traducao": "Pão"
+  },
+  {
+    "id": 300,
+    "index": 300,
+    "title": "Tomato",
+    "traducao": "Tomate"
+  },
+  {
+    "id": 301,
+    "index": 301,
+    "title": "Pizza",
+    "traducao": "Pizza"
+  },
+  {
+    "id": 302,
+    "index": 302,
+    "title": "Watermelon",
+    "traducao": "Melancia"
+  },
+  {
+    "id": 303,
+    "index": 303,
+    "title": "Juice",
+    "traducao": "Suco"
+  },
+  {
+    "id": 304,
+    "index": 304,
+    "title": "Soda",
+    "traducao": "Refrigerante"
+  },
+  {
+    "id": 305,
+    "index": 305,
+    "title": "Egg",
+    "traducao": "Ovo"
+  },
+  {
+    "id": 306,
+    "index": 306,
+    "title": "Soup",
+    "traducao": "Sopa"
+  },
+  {
+    "id": 307,
+    "index": 307,
+    "title": "Onion",
+    "traducao": "Cebola"
+  },
+  {
+    "id": 308,
+    "index": 308,
+    "title": "Salad",
+    "traducao": "Salada"
+  },
+  {
+    "id": 309,
+    "index": 309,
+    "title": "Chocolate",
+    "traducao": "Chocolate"
+  },
+  {
+    "id": 310,
+    "index": 310,
+    "title": "Melon",
+    "traducao": "Melão"
+  },
+  {
+    "id": 311,
+    "index": 311,
+    "title": "Pepper",
+    "traducao": "Pimenta, pimentão"
+  },
+  {
+    "id": 312,
+    "index": 312,
+    "title": "Potato",
+    "traducao": "Batata"
+  },
+  {
+    "id": 313,
+    "index": 313,
+    "title": "Lemon",
+    "traducao": "Limão"
+  },
+  {
+    "id": 314,
+    "index": 314,
+    "title": "Pasta",
+    "traducao": "Massa (macarrão)"
+  },
+  {
+    "id": 315,
+    "index": 315,
+    "title": "Milk",
+    "traducao": "Leite"
+  },
+  {
+    "id": 316,
+    "index": 316,
+    "title": "Sweet",
+    "traducao": "Doce (adj.)"
+  },
+  {
+    "id": 317,
+    "index": 317,
+    "title": "Sour",
+    "traducao": "Azedo"
+  },
+  {
+    "id": 318,
+    "index": 318,
+    "title": "Salty",
+    "traducao": "Salgado"
+  },
+  {
+    "id": 319,
+    "index": 319,
+    "title": "Hot",
+    "traducao": "Quente (temperatura/picante)"
+  }
   ]
 }
