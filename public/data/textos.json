@@ -1913,6 +1913,36 @@
     "index": 319,
     "title": "Hot",
     "traducao": "Quente (temperatura/picante)"
+  },
+  {
+    "id": 320,
+    "index": 320,
+    "title": "Got",
+    "traducao": "Tem/Teve/Conseguiu (verbo)"
+  },
+  {
+    "id": 321,
+    "index": 321,
+    "title": "I've",
+    "traducao": "Eu tenho"
+  },
+  {
+    "id": 322,
+    "index": 322,
+    "title": "Eraser",
+    "traducao": "Borracha"
+  },
+  {
+    "id": 323,
+    "index": 323,
+    "title": "Case",
+    "traducao": "Estojo/Capa/Caso"
+  },
+  {
+    "id": 324,
+    "index": 324,
+    "title": "Mum",
+    "traducao": "Mãe/Mamãe"
   }
   ]
 }
