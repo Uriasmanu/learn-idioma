@@ -15,6 +15,7 @@ interface CardData {
   id: number;
   title: string;
   traducao: string;
+  favoritar: boolean;
 }
 
 interface CardsData {
@@ -30,25 +31,25 @@ export default function Home() {
   const { scores, updateScore, resetScores } = useCardScores();
   const router = useRouter();
 
-useEffect(() => {
-  const fetchData = async () => {
-    try {
-      const response = await fetch('/data/textos.json');
-      if (!response.ok) throw new Error('Falha ao carregar dados');
-      const data: CardsData = await response.json();
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/data/textos.json');
+        if (!response.ok) throw new Error('Falha ao carregar dados');
+        const data: CardsData = await response.json();
 
-      // Embaralha os cards
-      const shuffledCards = data.cards.sort(() => Math.random() - 0.5);
+        // Embaralha os cards
+        const shuffledCards = data.cards.sort(() => Math.random() - 0.5);
 
-      setCards(shuffledCards || []);
-    } catch (err) {
-      setError('Erro ao carregar os cards');
-    } finally {
-      setLoading(false);
-    }
-  };
-  fetchData();
-}, []);
+        setCards(shuffledCards || []);
+      } catch (err) {
+        setError('Erro ao carregar os cards');
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchData();
+  }, []);
 
 
   const handleButtonClick = (cardId: number) => {
@@ -61,7 +62,7 @@ useEffect(() => {
   };
 
   const handleResultado = () => {
-    router.push('/relatorio'); 
+    router.push('/relatorio');
   };
 
   if (loading) return <div className="flex items-center justify-center h-screen text-lg">Carregando...</div>;
@@ -72,7 +73,7 @@ useEffect(() => {
       <Carousel className="w-full max-w-xs">
         <CarouselContent>
           {cards
-            .filter(card => !scores[card.id] || scores[card.id] === 0)
+            .filter(card => (!scores[card.id] || scores[card.id] === 0) && !card.favoritar)
             .map((card) => (
               <CarouselItem key={card.id}>
                 <div className="p-0.5">
@@ -81,6 +82,7 @@ useEffect(() => {
                     showInfo={revealedCardId === card.id}
                     title={card.title}
                     traducao={card.traducao}
+                    favoritar={card.favoritar}
                     handleButtonClick={() => handleButtonClick(card.id)}
                     onScoreChange={(delta) => updateScore(card.id, delta)}
                   />
@@ -90,8 +92,8 @@ useEffect(() => {
         </CarouselContent>
       </Carousel>
       <div className='flex gap-4'>
-        <BotaoGeral textoBotao='Recomeçar' cor='yellow' onClick={handleReset}/>
-        <BotaoGeral textoBotao='Resultado' cor='blue' onClick={handleResultado}/>
+        <BotaoGeral textoBotao='Recomeçar' cor='yellow' onClick={handleReset} />
+        <BotaoGeral textoBotao='Resultado' cor='blue' onClick={handleResultado} />
       </div>
     </div>
   );

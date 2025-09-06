@@ -5,17 +5,19 @@ import Botao from '../BotaoTraducao';
 import BotaoAcerto from '../BotaoAcerto';
 import BotaoErro from '../BotaoErro';
 import { useState } from 'react';
+import Favoritar from '../Favoritar';
 
 interface CartaoProps {
   id: number;
   showInfo: boolean;
   title: string;
   traducao: string;
+  favoritar: boolean; 
   handleButtonClick: () => void;
   onScoreChange: (delta: number) => void;
 }
 
-export default function Cartao({ id, showInfo, title, traducao, handleButtonClick, onScoreChange }: CartaoProps) {
+export default function Cartao({ showInfo, title, traducao, favoritar, handleButtonClick, onScoreChange }: CartaoProps) {
   const [bgColor, setBgColor] = useState('bg-white');
 
   const handleAcerto = () => {
@@ -34,7 +36,7 @@ export default function Cartao({ id, showInfo, title, traducao, handleButtonClic
 
   return (
     <div className={`relative flex flex-col h-[28rem] w-[19rem] border-2 border-black ${bgColor} rounded-2xl overflow-hidden`}>
-
+      <Favoritar favoritar={favoritar}/>
       <div className="flex justify-between p-2">
         <BotaoAcerto onClick={handleAcerto} />
         <BotaoErro onClick={handleErro} />

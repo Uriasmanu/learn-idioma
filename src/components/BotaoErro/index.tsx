@@ -11,7 +11,7 @@ export default function BotaoErro({
   className = '', 
   size = 'md' 
 }: BotaoAcertoProps) {
-  // Tamanhos configuráveis
+
   const sizeClasses = {
     sm: 'w-8 h-8',
     md: 'w-12 h-12',
@@ -37,6 +37,7 @@ export default function BotaoErro({
         shadow-md hover:shadow-lg
         focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-offset-2
         active:scale-95
+        cursor-pointer
         ${className}
       `}
       aria-label="Erro"
