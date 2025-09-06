@@ -2561,6 +2561,48 @@
       "title": "any",
       "traducao": "algum, nenhum, qualquer",
       "favoritar": false
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "title": "Most",
+      "traducao": "A maioria / Maior parte"
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "title": "Furniture",
+      "traducao": "Mobília / Móveis"
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "title": "Trousers",
+      "traducao": "Calças"
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "title": "Drawer",
+      "traducao": "Gaveta"
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "title": "Empty",
+      "traducao": "Vazio (adj.), Esvaziar (v.)"
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "title": "Advice",
+      "traducao": "Conselho(s)"
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "title": "Magazines",
+      "traducao": "Revistas"
     }
   ]
 }
