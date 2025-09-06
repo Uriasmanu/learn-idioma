@@ -2610,6 +2610,258 @@
       "title": "Magazines",
       "traducao": "Revistas",
       "favoritar": false
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "title": "depths",
+      "traducao": "profundidades / fundo / abismo",
+      "favoritar": false
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "title": "peer",
+      "traducao": "olhar atentamente / par / colega / nobre",
+      "favoritar": false
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "title": "bright",
+      "traducao": "brilhante / claro / inteligente / vivo",
+      "favoritar": false
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "title": "anybody",
+      "traducao": "alguém / ninguém / qualquer pessoa",
+      "favoritar": false
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "title": "burn",
+      "traducao": "queimar / arder / queimadura",
+      "favoritar": false
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "title": "quota",
+      "traducao": "cota / parcela / limite",
+      "favoritar": false
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "title": "look we",
+      "traducao": "olha, nós... / olhe para nós",
+      "favoritar": false
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "title": "we've",
+      "traducao": "nós temos / nós já",
+      "favoritar": false
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "title": "nearly",
+      "traducao": "quase / por pouco / aproximadamente",
+      "favoritar": false
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "title": "even look",
+      "traducao": "nem olhar / nem mesmo olhar",
+      "favoritar": false
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "title": "way up",
+      "traducao": "bem alto / muito acima / caminho para cima",
+      "favoritar": false
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "title": "let",
+      "traducao": "deixar / alugar / vamos (let's)",
+      "favoritar": false
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "title": "slide",
+      "traducao": "deslizar / escorregador / lâmina",
+      "favoritar": false
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "title": "you keep watch",
+      "traducao": "ficar de vigia / ficar de olho",
+      "favoritar": false
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "title": "fresh-faced",
+      "traducao": "aspecto jovem / rosto fresco / ingênuo",
+      "favoritar": false
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "title": "nonsenses",
+      "traducao": "bobagens / absurdos / coisas sem sentido",
+      "favoritar": false
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "title": "let's see",
+      "traducao": "vamos ver / deixe-me ver / vejamos",
+      "favoritar": false
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "title": "whirl",
+      "traducao": "girar / redemoinho / turbilhão",
+      "favoritar": false
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "title": "pulled off",
+      "traducao": "conseguiu realizar / removeu / saiu da estrada",
+      "favoritar": false
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "title": "whose",
+      "traducao": "de quem / cujo/cuja",
+      "favoritar": false
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "title": "kick up",
+      "traducao": "causar confusão / levantar com os pés / aumentar",
+      "favoritar": false
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "title": "headache",
+      "traducao": "dor de cabeça / problema / chatice",
+      "favoritar": false
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "title": "entrance hall",
+      "traducao": "saguão de entrada / hall de entrada",
+      "favoritar": false
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "title": "lead to",
+      "traducao": "levar a / causar / conduzir a",
+      "favoritar": false
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "title": "hassling",
+      "traducao": "incomodando / causando transtorno / brigando",
+      "favoritar": false
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "title": "sooner",
+      "traducao": "mais cedo / antes / preferiria",
+      "favoritar": false
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "title": "eager",
+      "traducao": "ansioso / desejoso / entusiasmado",
+      "favoritar": false
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "title": "spill",
+      "traducao": "derramar / entornar / revelar segredos",
+      "favoritar": false
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "title": "glad",
+      "traducao": "contente / feliz / agradecido",
+      "favoritar": false
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "title": "steel trap",
+      "traducao": "armadilha de aço / mente afiada (fig.)",
+      "favoritar": false
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "title": "mind like a steel trap",
+      "traducao": "mente afiada / raciocínio rápido",
+      "favoritar": false
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "title": "researching",
+      "traducao": "pesquisando / investigando",
+      "favoritar": false
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "title": "lick of them",
+      "traducao": "lambida deles / nada deles (expressão idiomática)",
+      "favoritar": false
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "title": "lend me",
+      "traducao": "empreste-me / me empreste",
+      "favoritar": false
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "title": "crawling",
+      "traducao": "rastejando / engatinhando / andando devagar",
+      "favoritar": false
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "title": "waltz up",
+      "traducao": "aproximar-se com confiança / chegar com naturalidade",
+      "favoritar": false
     }
   ]
 }
