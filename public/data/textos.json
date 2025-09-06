@@ -2566,43 +2566,50 @@
       "id": 367,
       "index": 367,
       "title": "Most",
-      "traducao": "A maioria / Maior parte"
+      "traducao": "A maioria / Maior parte",
+      "favoritar": false
     },
     {
       "id": 368,
       "index": 368,
       "title": "Furniture",
-      "traducao": "Mobília / Móveis"
+      "traducao": "Mobília / Móveis",
+      "favoritar": false
     },
     {
       "id": 369,
       "index": 369,
       "title": "Trousers",
-      "traducao": "Calças"
+      "traducao": "Calças",
+      "favoritar": false
     },
     {
       "id": 370,
       "index": 370,
       "title": "Drawer",
-      "traducao": "Gaveta"
+      "traducao": "Gaveta",
+      "favoritar": false
     },
     {
       "id": 371,
       "index": 371,
       "title": "Empty",
-      "traducao": "Vazio (adj.), Esvaziar (v.)"
+      "traducao": "Vazio (adj.), Esvaziar (v.)",
+      "favoritar": false
     },
     {
       "id": 372,
       "index": 372,
       "title": "Advice",
-      "traducao": "Conselho(s)"
+      "traducao": "Conselho(s)",
+      "favoritar": false
     },
     {
       "id": 373,
       "index": 373,
       "title": "Magazines",
-      "traducao": "Revistas"
+      "traducao": "Revistas",
+      "favoritar": false
     }
   ]
 }
