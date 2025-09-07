@@ -110,7 +110,7 @@
       "index": 16,
       "title": "supposed",
       "traducao": "suposto, dever, planejado",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 17,
@@ -628,7 +628,7 @@
       "index": 90,
       "title": "To go",
       "traducao": "Ir",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 91,
@@ -642,7 +642,7 @@
       "index": 92,
       "title": "Airport",
       "traducao": "Aeroporto",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 93,
@@ -656,21 +656,21 @@
       "index": 94,
       "title": "Bank",
       "traducao": "Banco",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 95,
       "index": 95,
       "title": "Bookstore",
       "traducao": "Livraria",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 96,
       "index": 96,
       "title": "Bus station",
       "traducao": "Rodoviária",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 97,
@@ -684,7 +684,7 @@
       "index": 98,
       "title": "Church",
       "traducao": "Igreja",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 99,
@@ -698,49 +698,49 @@
       "index": 100,
       "title": "Gym",
       "traducao": "Academia",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 101,
       "index": 101,
       "title": "Hospital",
       "traducao": "Hospital",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 102,
       "index": 102,
       "title": "Hair salon",
       "traducao": "Salão de beleza",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 103,
       "index": 103,
       "title": "Movie theater",
       "traducao": "Cinema",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 104,
       "index": 104,
       "title": "Library",
       "traducao": "Biblioteca",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 105,
       "index": 105,
       "title": "University",
       "traducao": "Universidade",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 106,
       "index": 106,
       "title": "Museum",
       "traducao": "Museu",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 107,
@@ -754,14 +754,14 @@
       "index": 108,
       "title": "Supermarket",
       "traducao": "Supermercado",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 109,
       "index": 109,
       "title": "School",
       "traducao": "Escola",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 110,
@@ -803,7 +803,7 @@
       "index": 115,
       "title": "To make",
       "traducao": "Fazer (criar, construir)",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 116,
@@ -817,84 +817,84 @@
       "index": 117,
       "title": "Agressive",
       "traducao": "Agressivo",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 118,
       "index": 118,
       "title": "Nice",
       "traducao": "Legal, simpático",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 119,
       "index": 119,
       "title": "Anxious",
       "traducao": "Ansioso",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 120,
       "index": 120,
       "title": "Small",
       "traducao": "Pequeno",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 121,
       "index": 121,
       "title": "Authentic",
       "traducao": "Autêntico",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 122,
       "index": 122,
       "title": "Short",
       "traducao": "Baixo, curto",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 123,
       "index": 123,
       "title": "Courageous",
       "traducao": "Corajoso",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 124,
       "index": 124,
       "title": "Old",
       "traducao": "Velho, antigo",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 125,
       "index": 125,
       "title": "New",
       "traducao": "Novo",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 126,
       "index": 126,
       "title": "Grateful",
       "traducao": "Grato",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 127,
       "index": 127,
       "title": "Long",
       "traducao": "Longo, comprido",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 128,
       "index": 128,
       "title": "Hilarious",
       "traducao": "Hilário, engraçadíssimo",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 129,
@@ -908,7 +908,7 @@
       "index": 130,
       "title": "Polite",
       "traducao": "Educado",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 131,
@@ -921,43 +921,43 @@
       "id": 132,
       "index": 132,
       "title": "false",
-      "traducao": "Verdadeiro",
-      "favoritar": false
+      "traducao": "falso",
+      "favoritar": true
     },
     {
       "id": 133,
       "index": 133,
       "title": "Ugly",
       "traducao": "Feio",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 134,
       "index": 134,
       "title": "Beautiful",
       "traducao": "Belo, lindo",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 135,
       "index": 135,
       "title": "Handsome",
       "traducao": "Bonito (para homens)",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 136,
       "index": 136,
       "title": "Amazing",
       "traducao": "Incrível, maravilhoso",
-      "favoritar": false
+      "favoritar": true 
     },
     {
       "id": 137,
       "index": 137,
       "title": "Wonderful",
       "traducao": "Maravilhoso",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 138,
@@ -977,7 +977,7 @@
       "id": 140,
       "index": 140,
       "title": "Kill (someone) with kindness",
-      "traducao": "Catar alguém com bondade",
+      "traducao": "Criticar alguém com bondade",
       "favoritar": false
     },
     {
@@ -999,49 +999,49 @@
       "index": 143,
       "title": "Countable",
       "traducao": "Contável",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 144,
       "index": 144,
       "title": "Uncountable",
       "traducao": "Incontável",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 145,
       "index": 145,
       "title": "To run",
       "traducao": "Correr",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 146,
       "index": 146,
       "title": "To walk",
       "traducao": "Andar, caminhar",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 147,
       "index": 147,
       "title": "Arena",
       "traducao": "Arena",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 148,
       "index": 148,
       "title": "Amateur",
       "traducao": "Amador",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 149,
       "index": 149,
       "title": "Athlete",
       "traducao": "Atleta",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 150,
@@ -1055,35 +1055,35 @@
       "index": 151,
       "title": "Award",
       "traducao": "Prêmio",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 152,
       "index": 152,
       "title": "Captain",
       "traducao": "Capitão",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 153,
       "index": 153,
       "title": "Champion",
       "traducao": "Campeão",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 154,
       "index": 154,
       "title": "Coach",
       "traducao": "Técnico",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 155,
       "index": 155,
       "title": "Competition",
       "traducao": "Competição",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 156,
@@ -1097,7 +1097,7 @@
       "index": 157,
       "title": "Player",
       "traducao": "Jogador",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 158,
@@ -1111,7 +1111,7 @@
       "index": 159,
       "title": "Rules",
       "traducao": "Regras",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 160,
@@ -1125,28 +1125,28 @@
       "index": 161,
       "title": "Boxing",
       "traducao": "Boxe",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 162,
       "index": 162,
       "title": "Cycling",
       "traducao": "Ciclimo",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 163,
       "index": 163,
       "title": "Golf",
       "traducao": "Golfe",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 164,
       "index": 164,
       "title": "Gymnastic",
       "traducao": "Ginástica",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 165,
@@ -1188,14 +1188,14 @@
       "index": 170,
       "title": "This",
       "traducao": "Este, esta, isto",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 171,
       "index": 171,
       "title": "That",
       "traducao": "Esse, essa, isso, aquele, aquela, aquilo",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 172,
@@ -1223,14 +1223,14 @@
       "index": 175,
       "title": "To touch",
       "traducao": "Tocar, encostar",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 176,
       "index": 176,
       "title": "Head",
       "traducao": "Cabeça",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 177,
@@ -1265,7 +1265,7 @@
       "index": 181,
       "title": "Arm",
       "traducao": "Braço",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 182,
@@ -1279,14 +1279,14 @@
       "index": 183,
       "title": "Hand",
       "traducao": "Mão",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 184,
       "index": 184,
       "title": "Back",
       "traducao": "Costas",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 185,
@@ -1307,7 +1307,7 @@
       "index": 187,
       "title": "Skin",
       "traducao": "Pele",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 188,
@@ -1321,14 +1321,14 @@
       "index": 189,
       "title": "Foot",
       "traducao": "Pé",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 190,
       "index": 190,
       "title": "Finger",
       "traducao": "Dedo (da mão)",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 191,
@@ -1342,7 +1342,7 @@
       "index": 192,
       "title": "Eyes",
       "traducao": "Olhos",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 193,
@@ -1398,7 +1398,7 @@
       "index": 200,
       "title": "Give (someone) a hand",
       "traducao": "Dar uma mão, ajudar alguém",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 201,
@@ -1412,14 +1412,14 @@
       "index": 202,
       "title": "To cry",
       "traducao": "Chorar",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 203,
       "index": 203,
       "title": "To smile",
       "traducao": "Sorrir",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 204,
@@ -1433,14 +1433,14 @@
       "index": 205,
       "title": "Happy",
       "traducao": "Feliz",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 206,
       "index": 206,
       "title": "Great",
       "traducao": "Ótimo, excelente",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 207,
@@ -1454,21 +1454,21 @@
       "index": 208,
       "title": "Hungry",
       "traducao": "Com fome",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 209,
       "index": 209,
       "title": "Sad",
       "traducao": "Triste",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 210,
       "index": 210,
       "title": "Miserable",
       "traducao": "Miserável",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 211,
@@ -1503,28 +1503,28 @@
       "index": 215,
       "title": "Cold",
       "traducao": "Frio",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 216,
       "index": 216,
       "title": "Freezing",
       "traducao": "Congelante, muito frio",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 217,
       "index": 217,
       "title": "Sick / Unwell",
       "traducao": "Doente",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 218,
       "index": 218,
       "title": "Scared",
       "traducao": "Assustado",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 219,
@@ -1552,14 +1552,14 @@
       "index": 222,
       "title": "Angry",
       "traducao": "Com raiva, zangado",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 223,
       "index": 223,
       "title": "Tired",
       "traducao": "Cansado",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 224,
@@ -1606,15 +1606,15 @@
     {
       "id": 230,
       "index": 230,
-      "title": "Subject pronouns",
-      "traducao": "Pronomes sujeito (I, you, he...)",
+      "title": "earlier",
+      "traducao": "Mais cedo,ha pouco",
       "favoritar": false
     },
     {
       "id": 231,
       "index": 231,
-      "title": "Object pronouns",
-      "traducao": "Pronomes objeto (me, you, him...)",
+      "title": "overhearing",
+      "traducao": "ouvir por acaso",
       "favoritar": false
     },
     {
@@ -1622,49 +1622,49 @@
       "index": 232,
       "title": "To play",
       "traducao": "Brincar, jogar, tocar (instrumento)",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 233,
       "index": 233,
       "title": "To want",
       "traducao": "Querer",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 234,
       "index": 234,
       "title": "Basketball",
       "traducao": "Basquete",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 235,
       "index": 235,
       "title": "Soccer",
       "traducao": "Futebol",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 236,
       "index": 236,
       "title": "Volleyball",
       "traducao": "Vôlei",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 237,
       "index": 237,
       "title": "Electric guitar",
       "traducao": "Guitarra elétrica",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 238,
       "index": 238,
       "title": "Guitar",
       "traducao": "Violão, guitarra",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 239,
@@ -1678,21 +1678,21 @@
       "index": 240,
       "title": "Shorts",
       "traducao": "Bermuda",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 241,
       "index": 241,
       "title": "Jacket",
       "traducao": "Jaqueta",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 242,
       "index": 242,
       "title": "Skirt",
       "traducao": "Saia",
-      "favoritar": false
+      "favoritar": false 
     },
     {
       "id": 243,
@@ -1713,14 +1713,14 @@
       "index": 245,
       "title": "Dress",
       "traducao": "Vestido",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 246,
       "index": 246,
       "title": "Shoes",
       "traducao": "Sapatos",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 247,
@@ -1741,42 +1741,42 @@
       "index": 249,
       "title": "Sandals",
       "traducao": "Sandálias",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 250,
       "index": 250,
       "title": "To like",
       "traducao": "Gostar",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 251,
       "index": 251,
       "title": "To have",
       "traducao": "Ter",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 252,
       "index": 252,
       "title": "Mom/Mother",
       "traducao": "Mãe",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 253,
       "index": 253,
       "title": "Brother",
       "traducao": "Irmão",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 254,
       "index": 254,
       "title": "Dad/Father",
       "traducao": "Pai",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 255,
@@ -1790,7 +1790,7 @@
       "index": 256,
       "title": "Sister",
       "traducao": "Irmã",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 257,
@@ -1804,7 +1804,7 @@
       "index": 258,
       "title": "Uncle",
       "traducao": "Tio",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 259,
@@ -1825,14 +1825,14 @@
       "index": 261,
       "title": "Grandfather",
       "traducao": "Avô",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 262,
       "index": 262,
       "title": "Grandmother",
       "traducao": "Avó",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 263,
@@ -1860,21 +1860,21 @@
       "index": 266,
       "title": "Son",
       "traducao": "Filho",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 267,
       "index": 267,
       "title": "Daughter",
       "traducao": "Filha",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 268,
       "index": 268,
       "title": "Husband",
       "traducao": "Marido",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 269,
@@ -1888,7 +1888,7 @@
       "index": 270,
       "title": "Family",
       "traducao": "Família",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 271,
@@ -1902,14 +1902,14 @@
       "index": 272,
       "title": "Child",
       "traducao": "Criança, filho(a)",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 273,
       "index": 273,
       "title": "Children",
       "traducao": "Crianças, filhos(as)",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 274,
@@ -1944,14 +1944,14 @@
       "index": 278,
       "title": "Girlfriend",
       "traducao": "Namorada",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 279,
       "index": 279,
       "title": "Boyfriend",
       "traducao": "Namorado",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 280,
@@ -1965,14 +1965,14 @@
       "index": 281,
       "title": "To eat",
       "traducao": "Comer",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 282,
       "index": 282,
       "title": "To drink",
       "traducao": "Beber",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 283,
@@ -1986,35 +1986,35 @@
       "index": 284,
       "title": "Fish",
       "traducao": "Peixe",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 285,
       "index": 285,
       "title": "Chicken",
       "traducao": "Frango",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 286,
       "index": 286,
       "title": "Vegetables",
       "traducao": "Legumes, verduras",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 287,
       "index": 287,
       "title": "Fruit",
       "traducao": "Fruta",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 288,
       "index": 288,
       "title": "Cake",
       "traducao": "Bolo",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 289,
@@ -2028,35 +2028,35 @@
       "index": 290,
       "title": "Cheese",
       "traducao": "Queijo",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 291,
       "index": 291,
       "title": "Hot dog",
       "traducao": "Cachorro-quente",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 292,
       "index": 292,
       "title": "Sandwich",
       "traducao": "Sanduíche",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 293,
       "index": 293,
       "title": "Orange",
       "traducao": "Laranja",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 294,
       "index": 294,
       "title": "Apple",
       "traducao": "Maçã",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 295,
@@ -2070,7 +2070,7 @@
       "index": 296,
       "title": "Rice",
       "traducao": "Arroz",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 297,
@@ -2084,28 +2084,28 @@
       "index": 298,
       "title": "Cookie",
       "traducao": "Biscoito",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 299,
       "index": 299,
       "title": "Bread",
       "traducao": "Pão",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 300,
       "index": 300,
       "title": "Tomato",
       "traducao": "Tomate",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 301,
       "index": 301,
       "title": "Pizza",
       "traducao": "Pizza",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 302,
@@ -2119,56 +2119,56 @@
       "index": 303,
       "title": "Juice",
       "traducao": "Suco",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 304,
       "index": 304,
       "title": "Soda",
       "traducao": "Refrigerante",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 305,
       "index": 305,
       "title": "Egg",
       "traducao": "Ovo",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 306,
       "index": 306,
       "title": "Soup",
       "traducao": "Sopa",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 307,
       "index": 307,
       "title": "Onion",
       "traducao": "Cebola",
-      "favoritar": false
+      "favoritar": false 
     },
     {
       "id": 308,
       "index": 308,
       "title": "Salad",
       "traducao": "Salada",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 309,
       "index": 309,
       "title": "Chocolate",
       "traducao": "Chocolate",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 310,
       "index": 310,
       "title": "Melon",
       "traducao": "Melão",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 311,
@@ -2182,35 +2182,35 @@
       "index": 312,
       "title": "Potato",
       "traducao": "Batata",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 313,
       "index": 313,
       "title": "Lemon",
       "traducao": "Limão",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 314,
       "index": 314,
       "title": "Pasta",
       "traducao": "Massa (macarrão)",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 315,
       "index": 315,
       "title": "Milk",
       "traducao": "Leite",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 316,
       "index": 316,
       "title": "Sweet",
       "traducao": "Doce (adj.)",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 317,
@@ -2231,7 +2231,7 @@
       "index": 319,
       "title": "Hot",
       "traducao": "Quente (temperatura/picante)",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 320,
@@ -2350,7 +2350,7 @@
       "index": 336,
       "title": "made",
       "traducao": "Feito/Fabricado",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 337,
@@ -2364,7 +2364,7 @@
       "index": 338,
       "title": "lots",
       "traducao": "Muitos/Muito (informal)",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 339,
@@ -2385,7 +2385,7 @@
       "index": 341,
       "title": "practical",
       "traducao": "Prático/Pragmático",
-      "favoritar": false
+      "favoritar": true
     },
     {
       "id": 342,
