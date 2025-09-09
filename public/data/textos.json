@@ -2862,6 +2862,160 @@
       "title": "waltz up",
       "traducao": "aproximar-se com confiança / chegar com naturalidade",
       "favoritar": false
-    }
+    },
+    {
+    "id": 410,
+    "index": 410,
+    "title": "belong",
+    "traducao": "pertencer",
+    "favoritar": false
+  },
+  {
+    "id": 411,
+    "index": 411,
+    "title": "you land",
+    "traducao": "você aterra/pousa",
+    "favoritar": false
+  },
+  {
+    "id": 412,
+    "index": 412,
+    "title": "spend",
+    "traducao": "gastar/passar tempo",
+    "favoritar": false
+  },
+  {
+    "id": 413,
+    "index": 413,
+    "title": "to land",
+    "traducao": "aterrissar/pousar",
+    "favoritar": false
+  },
+  {
+    "id": 414,
+    "index": 414,
+    "title": "tells",
+    "traducao": "diz/conta",
+    "favoritar": false
+  },
+  {
+    "id": 415,
+    "index": 415,
+    "title": "once you do",
+    "traducao": "assim que você o fizer",
+    "favoritar": false
+  },
+  {
+    "id": 416,
+    "index": 416,
+    "title": "earned",
+    "traducao": "ganhou/mereceu",
+    "favoritar": false
+  },
+  {
+    "id": 417,
+    "index": 417,
+    "title": "offer",
+    "traducao": "oferta/proposta",
+    "favoritar": false
+  },
+  {
+    "id": 418,
+    "index": 418,
+    "title": "I thought id",
+    "traducao": "achei que eu iria",
+    "favoritar": false
+  },
+  {
+    "id": 419,
+    "index": 419,
+    "title": "I left off",
+    "traducao": "eu parei/deixei de lado",
+    "favoritar": false
+  },
+  {
+    "id": 420,
+    "index": 420,
+    "title": "placed",
+    "traducao": "colocou/posicionou",
+    "favoritar": false
+  },
+  {
+    "id": 421,
+    "index": 421,
+    "title": "assigned",
+    "traducao": "designado/atribuído",
+    "favoritar": false
+  },
+  {
+    "id": 422,
+    "index": 422,
+    "title": "grad",
+    "traducao": "formando/graduado",
+    "favoritar": false
+  },
+  {
+    "id": 423,
+    "index": 423,
+    "title": "surrounded",
+    "traducao": "cercado/rodeado",
+    "favoritar": false
+  },
+  {
+    "id": 424,
+    "index": 424,
+    "title": "internship",
+    "traducao": "estágio",
+    "favoritar": false
+  },
+  {
+    "id": 425,
+    "index": 425,
+    "title": "eased",
+    "traducao": "aliviado/facilitado",
+    "favoritar": false
+  },
+  {
+    "id": 426,
+    "index": 426,
+    "title": "handed",
+    "traducao": "entregou/passou",
+    "favoritar": false
+  },
+  {
+    "id": 427,
+    "index": 427,
+    "title": "ownership",
+    "traducao": "propriedade/posse",
+    "favoritar": false
+  },
+  {
+    "id": 428,
+    "index": 428,
+    "title": "googling",
+    "traducao": "pesquisando no google",
+    "favoritar": false
+  },
+  {
+    "id": 429,
+    "index": 429,
+    "title": "shift hit me",
+    "traducao": "merda, aconteceu",
+    "favoritar": false
+  },
+  {
+    "id": 430,
+    "index": 430,
+    "title": "pressure",
+    "traducao": "pressão",
+    "favoritar": false
+  },
+  {
+    "id": 431,
+    "index": 431,
+    "title": "inner voice",
+    "traducao": "voz interior",
+    "favoritar": false
+  }
   ]
 }
