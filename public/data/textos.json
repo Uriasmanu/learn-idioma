@@ -950,7 +950,7 @@
       "index": 136,
       "title": "Amazing",
       "traducao": "Incrível, maravilhoso",
-      "favoritar": true 
+      "favoritar": true
     },
     {
       "id": 137,
@@ -1692,7 +1692,7 @@
       "index": 242,
       "title": "Skirt",
       "traducao": "Saia",
-      "favoritar": false 
+      "favoritar": false
     },
     {
       "id": 243,
@@ -2147,7 +2147,7 @@
       "index": 307,
       "title": "Onion",
       "traducao": "Cebola",
-      "favoritar": false 
+      "favoritar": false
     },
     {
       "id": 308,
@@ -2864,158 +2864,305 @@
       "favoritar": false
     },
     {
-    "id": 410,
-    "index": 410,
-    "title": "belong",
-    "traducao": "pertencer",
-    "favoritar": false
-  },
-  {
-    "id": 411,
-    "index": 411,
-    "title": "you land",
-    "traducao": "você aterra/pousa",
-    "favoritar": false
-  },
-  {
-    "id": 412,
-    "index": 412,
-    "title": "spend",
-    "traducao": "gastar/passar tempo",
-    "favoritar": false
-  },
-  {
-    "id": 413,
-    "index": 413,
-    "title": "to land",
-    "traducao": "aterrissar/pousar",
-    "favoritar": false
-  },
-  {
-    "id": 414,
-    "index": 414,
-    "title": "tells",
-    "traducao": "diz/conta",
-    "favoritar": false
-  },
-  {
-    "id": 415,
-    "index": 415,
-    "title": "once you do",
-    "traducao": "assim que você o fizer",
-    "favoritar": false
-  },
-  {
-    "id": 416,
-    "index": 416,
-    "title": "earned",
-    "traducao": "ganhou/mereceu",
-    "favoritar": false
-  },
-  {
-    "id": 417,
-    "index": 417,
-    "title": "offer",
-    "traducao": "oferta/proposta",
-    "favoritar": false
-  },
-  {
-    "id": 418,
-    "index": 418,
-    "title": "I thought id",
-    "traducao": "achei que eu iria",
-    "favoritar": false
-  },
-  {
-    "id": 419,
-    "index": 419,
-    "title": "I left off",
-    "traducao": "eu parei/deixei de lado",
-    "favoritar": false
-  },
-  {
-    "id": 420,
-    "index": 420,
-    "title": "placed",
-    "traducao": "colocou/posicionou",
-    "favoritar": false
-  },
-  {
-    "id": 421,
-    "index": 421,
-    "title": "assigned",
-    "traducao": "designado/atribuído",
-    "favoritar": false
-  },
-  {
-    "id": 422,
-    "index": 422,
-    "title": "grad",
-    "traducao": "formando/graduado",
-    "favoritar": false
-  },
-  {
-    "id": 423,
-    "index": 423,
-    "title": "surrounded",
-    "traducao": "cercado/rodeado",
-    "favoritar": false
-  },
-  {
-    "id": 424,
-    "index": 424,
-    "title": "internship",
-    "traducao": "estágio",
-    "favoritar": false
-  },
-  {
-    "id": 425,
-    "index": 425,
-    "title": "eased",
-    "traducao": "aliviado/facilitado",
-    "favoritar": false
-  },
-  {
-    "id": 426,
-    "index": 426,
-    "title": "handed",
-    "traducao": "entregou/passou",
-    "favoritar": false
-  },
-  {
-    "id": 427,
-    "index": 427,
-    "title": "ownership",
-    "traducao": "propriedade/posse",
-    "favoritar": false
-  },
-  {
-    "id": 428,
-    "index": 428,
-    "title": "googling",
-    "traducao": "pesquisando no google",
-    "favoritar": false
-  },
-  {
-    "id": 429,
-    "index": 429,
-    "title": "shift hit me",
-    "traducao": "merda, aconteceu",
-    "favoritar": false
-  },
-  {
-    "id": 430,
-    "index": 430,
-    "title": "pressure",
-    "traducao": "pressão",
-    "favoritar": false
-  },
-  {
-    "id": 431,
-    "index": 431,
-    "title": "inner voice",
-    "traducao": "voz interior",
-    "favoritar": false
-  }
+      "id": 410,
+      "index": 410,
+      "title": "belong",
+      "traducao": "pertencer",
+      "favoritar": false
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "title": "you land",
+      "traducao": "você aterra/pousa",
+      "favoritar": false
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "title": "spend",
+      "traducao": "gastar/passar tempo",
+      "favoritar": false
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "title": "to land",
+      "traducao": "aterrissar/pousar",
+      "favoritar": false
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "title": "tells",
+      "traducao": "diz/conta",
+      "favoritar": false
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "title": "once you do",
+      "traducao": "assim que você o fizer",
+      "favoritar": false
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "title": "earned",
+      "traducao": "ganhou/mereceu",
+      "favoritar": false
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "title": "offer",
+      "traducao": "oferta/proposta",
+      "favoritar": false
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "title": "I thought id",
+      "traducao": "achei que eu iria",
+      "favoritar": false
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "title": "I left off",
+      "traducao": "eu parei/deixei de lado",
+      "favoritar": false
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "title": "placed",
+      "traducao": "colocou/posicionou",
+      "favoritar": false
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "title": "assigned",
+      "traducao": "designado/atribuído",
+      "favoritar": false
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "title": "grad",
+      "traducao": "formando/graduado",
+      "favoritar": false
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "title": "surrounded",
+      "traducao": "cercado/rodeado",
+      "favoritar": false
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "title": "internship",
+      "traducao": "estágio",
+      "favoritar": false
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "title": "eased",
+      "traducao": "aliviado/facilitado",
+      "favoritar": false
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "title": "handed",
+      "traducao": "entregou/passou",
+      "favoritar": false
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "title": "ownership",
+      "traducao": "propriedade/posse",
+      "favoritar": false
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "title": "googling",
+      "traducao": "pesquisando no google",
+      "favoritar": false
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "title": "shift hit me",
+      "traducao": "merda, aconteceu",
+      "favoritar": false
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "title": "pressure",
+      "traducao": "pressão",
+      "favoritar": false
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "title": "inner voice",
+      "traducao": "voz interior",
+      "favoritar": false
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "title": "article",
+      "traducao": "artigo, matéria, item",
+      "favoritar": false
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "title": "leap",
+      "traducao": "pular, saltar, avanço",
+      "favoritar": false
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "title": "shifted",
+      "traducao": "mudou, deslocou, alterou",
+      "favoritar": false
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "title": "stepped",
+      "traducao": "pisou, deu um passo, entrou",
+      "favoritar": false
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "title": "tools",
+      "traducao": "ferramentas, instrumentos, utensílios",
+      "favoritar": false
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "title": "shift in",
+      "traducao": "mudança em, alteração em, virada em",
+      "favoritar": false
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "title": "instead",
+      "traducao": "em vez disso, ao invés, preferível",
+      "favoritar": false
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "title": "deliver next",
+      "traducao": "entregar a seguir, próxima entrega, entregar em seguida",
+      "favoritar": false
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "title": "mattered",
+      "traducao": "importou, fez diferença, teve consequência",
+      "favoritar": false
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "title": "felt",
+      "traducao": "senti, sentiu, feltro",
+      "favoritar": false
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "title": "expected",
+      "traducao": "esperado, previsto, aguardado",
+      "favoritar": false
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "title": "charge",
+      "traducao": "cobrar, acusar, carga",
+      "favoritar": false
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "title": "shadowing",
+      "traducao": "acompanhamento, perseguição, sombreado",
+      "favoritar": false
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "title": "blank",
+      "traducao": "em branco, vazio, alvo",
+      "favoritar": false
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "title": "becoming",
+      "traducao": "tornando-se, elegante, apropriado",
+      "favoritar": false
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "title": "enough",
+      "traducao": "suficiente, bastante, o suficiente",
+      "favoritar": false
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "title": "assignments",
+      "traducao": "tarefas, trabalhos, designações",
+      "favoritar": false
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "title": "cross-team",
+      "traducao": "interequipes, entre equipes, multiequipe",
+      "favoritar": false
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "title": "proud",
+      "traducao": "orgulhoso, arrogante, imponente",
+      "favoritar": false
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "title": "eased in",
+      "traducao": "introduzido gradualmente, adaptou-se suavemente, iniciado com cuidado",
+      "favoritar": false
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "title": "staring",
+      "traducao": "olhando fixamente, encarando, espiando",
+      "favoritar": false
+    }
   ]
 }
